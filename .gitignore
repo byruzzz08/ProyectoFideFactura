@@ -1,0 +1,14 @@
+# Compilados de NetBeans
+build/
+dist/
+
+# Configuracion local de NetBeans
+nbproject/private/
+
+# Datos generados al usar la app
+fidefactura.dat
+facturas/
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
